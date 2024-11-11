@@ -28,20 +28,17 @@
 
 ---
 
-<h3 align="center">My Baekjoon Rank, GitHub Stats, and Streak</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://solved.ac/radio225">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=radio225" alt="Solved.ac Profile" width="300"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kendrickhama&show_icons=true&locale=en" alt="kendrickhama" width="300"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendrickhama&" alt="kendrickhama" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kendrickhama&show_icons=true&locale=en" alt="kendrickhama" />
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/radio225">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=radio225" alt="Solved.ac Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendrickhama&" alt="kendrickhama" />
+</p>
