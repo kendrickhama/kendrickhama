@@ -27,8 +27,9 @@
 </p>
 
 ---
-
-
+<p align="center">
+![Woong's github stats](https://github-readme-stats.vercel.app/api?username=kendrickhamas&show_icons=true&theme=tokyonight)
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kendrickhama&show_icons=true&locale=en&count_private=true" alt="kendrickhama" />
 </p>
