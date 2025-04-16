@@ -5,8 +5,6 @@
 <p align="center">
  강영웅 | YeongWoong Kang
  </p>
-  
-<br><br>
 
 <h2 align="center">🛠 Tech Stack</h2>
   <br>
